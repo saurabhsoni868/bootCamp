@@ -1,1 +1,1 @@
-this is one.txt file after cloining
+this is one.txt file after staging and doing changes inside the content
